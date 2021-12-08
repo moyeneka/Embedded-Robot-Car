@@ -1,0 +1,14 @@
+# Ignore workspace directories
+.Xil
+*.cache
+*.runs
+*.tmp
+*.sdk_new_api
+*.sdk_old_api
+*.sdk_save_state
+*.sdk_bak*
+
+*.zip
+*.log
+*.jou
+*.str
